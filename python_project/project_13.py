@@ -19,7 +19,7 @@ print(f'Orginal massage: {plain_text}')
 print(f'Encrypted massage: {cipher_text}')
 
 # Decrypt
-cipher_text = input('Enter a message to encrypt: ')
+cipher_text = input('Enter a message to decrypt: ')
 plain_text = ""
 for latter in cipher_text:
     index = key.index(latter)
