@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "name": "Soumen Sen",
+            "age": "24",
+            "email": "soumensen411@gmail.com"
+        },
+        {
+            "name": "Tahmid Alvee",
+            "age": "24",
+            "email": "thamidalvee@gmail.com"
+        },
+        {
+            "name": "Arjun Barua",
+            "age": "25",
+            "email": "arjun@gmail.com"
+        }
+    ]
+}
